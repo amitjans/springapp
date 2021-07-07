@@ -1,1 +1,6 @@
-com\uabc\springapp\web\HelloController.class
+com\uabc\springapp\service\ProductManager.class
+com\uabc\springapp\service\SimpleProductManager.class
+com\uabc\springapp\domain\Product.class
+com\uabc\springapp\web\PriceIncreaseFormController.class
+com\uabc\springapp\web\InventoryController.class
+com\uabc\springapp\service\PriceIncrease.class

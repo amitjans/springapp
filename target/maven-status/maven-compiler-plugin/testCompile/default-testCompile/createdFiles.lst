@@ -1,1 +1,3 @@
-com\uabc\springapp\web\HelloControllerTests.class
+com\uabc\springapp\service\SimpleProductManagerTests.class
+com\uabc\springapp\web\InventoryControllerTests.class
+com\uabc\springapp\domain\ProductTests.class
